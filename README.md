@@ -1,0 +1,2 @@
+# colorconf-desktop
+colorconf desktop
